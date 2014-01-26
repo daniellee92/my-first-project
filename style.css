@@ -1,0 +1,13 @@
+body {
+	background: #000;
+	margin: 0;
+	padding: 0;
+	background: url(http://jackrugile.com/lab/fireworks-v1/bg.jpg) no-repeat center bottom fixed;
+	background-size: cover;
+}
+
+head div{
+    border:10px;
+    background-color:blue;
+    
+}
